@@ -126,3 +126,6 @@ The model successfully learns patterns from historical flight data and provides 
 • Improve model accuracy using advanced architectures
 • Deploy the system as a cloud-based web application
 • Add airport traffic and seasonal trends analysis
+
+
+
